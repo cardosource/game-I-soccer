@@ -1,8 +1,4 @@
-🎮️ ⚽️ 🐍️ 
-
-
-
-Simples jogo de futebol com dois personagem.
+# Simples jogo de futebol com dois personagem.
 
 Código simplificado.
 
